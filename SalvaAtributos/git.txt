@@ -1,0 +1,15 @@
+$ cd C:\\Users\\willi\\.qgis2\\python\\plugins\\SalvaAtributos\\SalvaAtributos
+
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit -m 'teste de commit, nada foi alterado'
+
+$ git config --global user.email "willianads@hotmail.com"
+
+$ git config --global user.name "Willian Alves"
+
+$ git push
