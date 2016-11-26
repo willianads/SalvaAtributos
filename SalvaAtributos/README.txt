@@ -1,4 +1,4 @@
-Plugin Builder Results
+Plugin Builder Results!
 
 Your plugin SalvaAtributos was created in:
     C:\Users\willi\.qgis2\python\plugins\SalvaAtributos
