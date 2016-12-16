@@ -6,6 +6,6 @@
   <qgis_minimum_version>2.2</qgis_minimum_version>
   <file_name>SalvaAtributos.zip</file_name>
   <author_name>IBGE Willian Alves</author_name>
-  <download_url>https://github.com/willianads/SalvaAtributos/SalvaAtributos.zip</download_url>
+  <download_url>https://github.com/willianads/SalvaAtributos/blob/master/SalvaAtributos.zip</download_url>
  </pyqgis_plugin>
 </plugins>
